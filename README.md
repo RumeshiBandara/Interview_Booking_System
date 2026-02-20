@@ -1,59 +1,43 @@
-# InterviewBookingSystem
+📌 Interview Booking System – Project Description
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
+Interview Booking System eka web-based application ekak wenawa, meka develop karala thiyenne Angular saha Tailwind CSS use karala modern, responsive user interface ekak hadanna.
 
-## Development server
+Mekata main users la dekak innawa:
 
-To start a local development server, run:
+👩‍💼 Candidates
 
-```bash
-ng serve
-```
+👨‍💻 Interviewers
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+🔹 Candidate Side Features
 
-## Code scaffolding
+Candidate kenekta account ekak create karala login wenna puluwan.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Available interview dates saha time slots tika balanna puluwan.
 
-```bash
-ng generate component component-name
-```
+Eken ekak select karala interview ekak book karanna puluwan.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Book karapu interview details (date, time, interviewer) view karanna puluwan.
 
-```bash
-ng generate --help
-```
+🔹 Interviewer Side Features
 
-## Building
+Interviewer kenekta login wenna puluwan.
 
-To build the project run:
+Eyata puluwan available dates saha time slots schedule karanna.
 
-```bash
-ng build
-```
+Book karapu candidates la list ekak balanna puluwan.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Interview slots manage (add / update / delete) karanna puluwan.
 
-## Running unit tests
+🔹 System Features
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+Responsive UI (mobile & desktop friendly)
 
-```bash
-ng test
-```
+Real-time slot availability check
 
-## Running end-to-end tests
+User role-based access (Candidate / Interviewer)
 
-For end-to-end (e2e) testing, run:
+Clean and modern UI design using Tailwind CSS
 
-```bash
-ng e2e
-```
+🎯 Project Objective
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Me system eke primary objective eka wenne interview booking process eka simplify karanna saha manual scheduling eka avoid karanna. Eken time eka save wenawa, conflicts adu wenawa, saha efficient interview management ekak hadanna puluwan.
